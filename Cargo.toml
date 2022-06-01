@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+  "assembly-line",
+  "health-statistics",
+  "resistor-color",
+  "reverse-string",
+  "semi-structured-logs",
+]
