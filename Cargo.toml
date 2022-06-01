@@ -6,4 +6,5 @@ members = [
   "resistor-color",
   "reverse-string",
   "semi-structured-logs",
+  "low-power-embedded-game",
 ]
