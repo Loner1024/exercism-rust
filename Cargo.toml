@@ -7,4 +7,5 @@ members = [
   "reverse-string",
   "semi-structured-logs",
   "low-power-embedded-game",
+  "role-playing-game",
 ]
